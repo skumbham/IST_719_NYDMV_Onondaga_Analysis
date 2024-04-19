@@ -7,7 +7,7 @@ Welcome to the IST_719_NYDMV_Onondaga_Analysis repository. This repository conta
 - **NyDMV_Onondaga_Cleaning_RScript.R**: This R script is dedicated to cleaning the DMV data, preparing it for analysis by correcting inconsistencies, handling missing values, and more.
 - **NyDmv_Onondaga_Code.ipynb**: A Jupyter Notebook created using Google Colab that contains the data analysis, including data manipulation and visualization scripts.
 - **NyDmv_Onondaga_Poster.pdf**: A high-quality poster designed in Adobe Illustrator that visually represents the findings and insights from the analysis.
-- **Data Folder**: Contains all raw data files (`Original_Data` and `DMV_Data`) used in this project.
+- **Data Folder**: Contains all raw data files (`DMV_Data`) used in this project.
 - **Data Report**: Detailed report of the data analysis process, findings, and methodologies.
 - **WIP Report**: A work in progress report which includes an outline and preliminary findings before finalizing the poster.
 
