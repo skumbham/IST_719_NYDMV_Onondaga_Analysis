@@ -53,9 +53,20 @@ For queries or discussions related to this project, please feel free to [open an
 
 This project aligns with the **MS in Applied Data Science Program Learning Outcomes**:
 
-- **Outcome 1:** Efficiently collecting, cleaning, and storing data.
-- **Outcome 2:** Applying the data science lifecycle to generate actionable insights.
-- **Outcome 3:** Visualizing data to uncover trends for informed decision-making.
-- **Outcome 4:** Using R and Python to manage and analyze datasets.
-- **Outcome 5:** Communicating insights through reports and visualizations.
-- **Outcome 6:** Ensuring ethical handling of data with accurate and transparent analysis.
+**1. Collect, store, and access data by identifying and leveraging applicable technologies:**  
+I collected and managed a large DMV dataset, using R for data cleaning and transformation to ensure accurate analysis and accessible data.
+
+**2. Create actionable insight across a range of contexts (e.g., societal, business, political), using data and the full data science life cycle:**  
+By following the full data science process, from data preprocessing to visualization, I generated insights into vehicle brand preferences, transaction types, and city-wise distribution, supporting both business and regional planning decisions.
+
+**3. Apply visualization and predictive models to help generate actionable insight:**  
+Using R and Adobe Illustrator, I created detailed visualizations that highlighted key trends in vehicle registrations, providing stakeholders with data-driven insights into market dynamics.
+
+**4. Use programming languages such as R and Python to support the generation of actionable insight:**  
+I used R for all data manipulation, analysis, and initial visualizations, showcasing my ability to apply programming for comprehensive insight generation.
+
+**5. Communicate insights gained via visualization and analytics to a broad range of audiences:**  
+Through enhanced and clear visuals, I effectively communicated complex data insights, making them accessible for stakeholders involved in dealership strategies and transportation planning.
+
+**6. Apply ethics in the development, use, and evaluation of data and predictive models:**  
+I maintained data integrity and transparency throughout the project, ensuring ethical handling of data by accurately representing trends and avoiding bias in the analysis.
